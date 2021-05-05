@@ -75,7 +75,7 @@
         android:id="@+id/finMessage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="69 lol"
+        android:text="Congrats! You made it to 100!"
         android:visibility="invisible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
