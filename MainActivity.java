@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 _counter++;
                 _stringVal = Integer.toString(_counter);
                 _value.setText(_stringVal);
-                if(_counter == 69) {
+                if(_counter == 100) {
                     _message.setVisibility(View.VISIBLE);
                 }
                 else{
